@@ -7,6 +7,10 @@ pkg install php
 
 pkg install git
 
+pkg install upgrade
+
+pkg install update
+
 git clone https://github.com/Thaniiaa/Elf
 
 cd Elf
